@@ -11,4 +11,4 @@ His preferred quote is:
 
 ![Abel](https://ca.slack-edge.com/T91PPTG9H-U012YMDA2TC-1563c8e87fff-512)
 
-[![Back](https://i.imgur.com/YOI6zzp.png)](./README.md)
+[![Back](https://i.imgur.com/YOI6zzp.png)](https://meowri.github.io/Let-it-be/)
