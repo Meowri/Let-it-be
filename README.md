@@ -16,7 +16,7 @@ More information about our passionate group you can find here:
 - [Abel Roland](bioAbel.md)
 
 
-[![Abel Roland](https://ca.slack-edge.com/T91PPTG9H-U012YMDA2TC-1563c8e87fff-512)](bioAbel.md)]
+[[!Abel Roland](https://ca.slack-edge.com/T91PPTG9H-U012YMDA2TC-1563c8e87fff-512)](bioAbel.md)]
 
 
 - [Galal Koro](bioGalal.md)
