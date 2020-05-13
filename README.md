@@ -28,7 +28,7 @@ More information about our passionate group you can find here:
 - [Lisa Rosaa](bioLisa.md)
 
 
-[![Lisa Rosaa](https://ca.slack-edge.com/T91PPTG9H-U012XAE7NSZ-a3768b9009c1-512)](bioLisa.md
+[![Lisa Rosaa](https://ca.slack-edge.com/T91PPTG9H-U012XAE7NSZ-a3768b9009c1-512)](bioLisa.md)
 
 
 - [Sayed Kazimi](bioSayed.md)
