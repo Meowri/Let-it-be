@@ -14,4 +14,4 @@ __More than anything he would like to have an impact on the artificial conscious
 
 ![Galal](https://ca.slack-edge.com/T91PPTG9H-U012XC8CSSH-eecff06c0f3f-512)
 
-[[Back](./README.md)
+[Back](./README.md)
