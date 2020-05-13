@@ -12,4 +12,4 @@ _“Twenty years from now you will be more disappointed by the things that you d
 
 ![Lisa](https://ca.slack-edge.com/T91PPTG9H-U012XAE7NSZ-a3768b9009c1-512)
 
-[![Back](https://i.imgur.com/YOI6zzp.png)](./README.md)
+[Back](./README.md)
